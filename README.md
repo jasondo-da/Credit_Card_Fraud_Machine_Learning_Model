@@ -8,13 +8,12 @@
 - [Project Introduction](#project-introduction)
     - [Credit Card Fraud Machine Learning Model Jupyter Notebook](#credit-card-fraud-machine-learning-model-jupyter-notebook)
     - [Credit Card Fraud Machine Learning Model Dataset](#credit-card-fraud-machine-learning-model-dataset)
-- [Objective](#objective)
 - [Analysis Outline](#analysis-outline)
 - [Conclusion](#conclusion)
 
 ## Project Introduction
 
-2024 has been a difficult year for entry-level data science jobs and for this project, I am interested in analyzing the data science field job market. For this project, I am utilizing a Kaggle-based dataset that web-scraped Canadian job postings for data using Selenium and BeautifulSoup. This dataset provides multiple interesting insights into the data science job market such as in-demand technical skills, expected work experience, and salary ranges. 
+2024 has been a difficult year for entry-level data science jobs and for this project, I am interested in analyzing the data science field job market. For this project, I am utilizing a Kaggle-based dataset that web-scraped Canadian job postings for data using Selenium and BeautifulSoup. This dataset provides multiple interesting insights into the data science job market such as in-demand technical skills, expected work experience, and salary ranges. The objective of this analysis is to train multiple machine learning models from scikit-learn to find the optimal model to detect fraudulent credit card transactions.
 
 ### Credit Card Fraud Machine Learning Model Jupyter Notebook
 
@@ -33,10 +32,6 @@ Link: [Original Kaggle Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditca
 | Amount | Transaction amount |
 | Class | 1 is for fraudulent transactions and 0 is for non-fraudulent transactions |
 
-
-## Objective
-
-The objective of this analysis is to train multiple machine learning models from scikit-learn to find the optimal model to detect fraudulent credit card transactions
 
 
 ## Analysis Outline
