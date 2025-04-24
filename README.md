@@ -15,11 +15,15 @@
 
 2024 has been a difficult year for entry-level data science jobs and for this project, I am interested in analyzing the data science field job market. For this project, I am utilizing a Kaggle-based dataset that web-scraped Canadian job postings for data using Selenium and BeautifulSoup. This dataset provides multiple interesting insights into the data science job market such as in-demand technical skills, expected work experience, and salary ranges. The objective of this analysis is to train multiple machine learning models from scikit-learn to find the optimal model to detect fraudulent credit card transactions.
 
-### Credit Card Fraud Machine Learning Model Jupyter Notebook
+## Credit Card Fraud Machine Learning Model Jupyter Notebook
+
+All codes of Credit Card Fraud Machine Learning Model in Jupyter Notebook
 
 Link: [Credit Card Fraud Machine Learning Model](https://github.com/jasondo-da/Canadian_Data_Analyst_Online_Job_Posting_Analysis/blob/main/da_job_posts_canada_analysis.ipynb)
 
-### Credit Card Fraud Machine Learning Model Dataset
+## Credit Card Fraud Machine Learning Model Dataset
+
+The dataset contains transactions made by credit cards in September 2013 by European cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 
 Link: [Original Kaggle Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
 
