@@ -13,7 +13,7 @@
 
 ## Project Introduction
 
-2024 has been a difficult year for entry-level data science jobs and for this project, I am interested in analyzing the data science field job market. For this project, I am utilizing a Kaggle-based dataset that web-scraped Canadian job postings for data using Selenium and BeautifulSoup. This dataset provides multiple interesting insights into the data science job market such as in-demand technical skills, expected work experience, and salary ranges. The objective of this analysis is to train multiple machine learning models from scikit-learn to find the optimal model to detect fraudulent credit card transactions.
+Credit card company XYZ wants to reduce fraud by detecting suspicious credit card activities from their customers. To solve this problem credit card company XYZ wants to implement a machine learning model to analyze customer transactions and detect if credit card fraud is being committed. To solve this classification task, my analysis will utilize multiple machine learning models from the scikit-learn library, and hyperparameter tuning them to find the optimal model that yields the highest accuracy score for credit card company XYZ.
 
 ## Credit Card Fraud Machine Learning Model Jupyter Notebook
 
